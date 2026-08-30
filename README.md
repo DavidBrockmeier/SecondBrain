@@ -6,7 +6,8 @@ The pattern comes from the reference article in [`references/building-a-second-b
 
 ## Layout
 
-- `references/` — captured source material and reference articles.
+- `topics/` — distilled topic nodes: claims, evidence, conclusions, open questions, and a bibliography, each self-contained and reusable across contexts.
+- `references/` — captured source material: reference articles and raw conversation transcripts that topic nodes distill from.
 
 Add folders as the vault grows (the reference article suggests e.g. architecture notes, decisions/ADRs, runbooks, environment notes).
 
